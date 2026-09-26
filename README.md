@@ -1,32 +1,36 @@
-# Hey, I'm Avinash 👋
+# 👋 Hey, I'm Avinash
 
-💻 Computer Science Student
-🚀 Learning by building things
-🧠 Exploring Web Development, Python & Cybersecurity
-📚 Currently improving my coding skills
+### 💻 Computer Science Student | Developer in Progress
 
-### 🛠️ What I'm Learning
+I don't know everything yet — **I'm here to learn it.** 🚀
 
-* Python
-* C / C++
-* HTML & CSS
-* JavaScript
-* Git & GitHub
-* Cybersecurity
+* 🔭 Currently working on personal projects
+* 🌱 Learning Web Development, Python & Cybersecurity
+* 💡 Interested in building useful things
+* 🧠 Learning something new every day
+* 🎯 Goal: Become a skilled Software Developer
 
-### 🔥 What I'm Doing
+### ⚡ Tech I'm Exploring
 
-Building small projects, learning new technologies, and improving my skills one step at a time.
+`C` `C++` `Python` `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-### 📌 Goal
+### 🛠️ Projects
 
-> Learn. Build. Break. Fix. Repeat.
+🚧 **Currently building & experimenting...**
 
-### 🤝 Let's Connect
+More projects coming soon.
 
-Always open to learning something new and working on interesting projects.
+### 📈 My Approach
+
+**Learn → Build → Make mistakes → Fix → Improve**
+
+> “Consistency beats perfection.”
+
+### 🚀 A little about me
+
+Just a CS student who enjoys coding, exploring technology, and turning ideas into projects.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ If you find something interesting here, feel free to explore my repositories.
 
